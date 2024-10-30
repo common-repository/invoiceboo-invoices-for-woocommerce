@@ -1,0 +1,249 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: InvoiceBoo - Simple invoices for WooCommerce\n"
+"POT-Creation-Date: 2022-07-31 23:43+0300\n"
+"PO-Revision-Date: 2022-06-17 13:24+0300\n"
+"Last-Translator: Nauris Kolats <nauris@streamline.lv>\n"
+"Language-Team: Nauris Kolats <nauris@streamline.lv>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: Poedit 3.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: invoiceboo.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/class-invoiceboo-admin.php:225
+msgid "Select order status"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:256
+msgid "Add Company Logo"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:257
+msgid "Use image"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:378
+msgid "Settings"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:474
+msgid ""
+"Easy, quick, and user-friendly way of providing WooCommerce customers with "
+"Invoices."
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:485
+msgid "General"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:487
+msgid ""
+"Enable Invoices and provide your Company details that you want to include in "
+"your Invoices."
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:497
+msgid "Enable Invoices"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:501
+msgid "Company details"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:506
+msgid "Automatically create Invoices for orders with status"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:514
+msgid "Appearance"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:516
+msgid "Adjust the visual design and appearance of your PDF Invoices."
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:521
+msgid "Template"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:539
+msgid "Font"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:557
+msgid "Colors"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:559
+msgid "Main color"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:563
+msgid "Secondary color"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:574
+msgid "Invoice Logo"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:576
+msgid "Recommended dimensions:"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:619 public/class-invoiceboo-public.php:289
+msgid "Save"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:619
+msgid "Preview Invoice"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:634
+msgid "Sunrise"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:964
+msgid "Product"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:969
+msgid "Price"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:974
+msgid "Quantity"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:979
+msgid "Amount"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:1089
+msgid "Subtotal:"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:1093
+msgid "Tax:"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:1097
+msgid "Payment method:"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:1101
+msgid "Total:"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:1149
+msgid "Note:"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:1231
+msgid "Sync failed. Looks like you are not allowed to do this."
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:1234
+msgid "Sync finished"
+msgstr ""
+
+#: admin/class-invoiceboo-admin.php:1325
+msgid "Please enable WooCommerce to use InvoiceBoo."
+msgstr ""
+
+#: includes/class-invoiceboo-pdf.php:64 public/class-invoiceboo-public.php:253
+#: public/class-invoiceboo-public.php:338 templates/invoiceboo-sunrise.php:47
+msgid "Invoice"
+msgstr ""
+
+#: public/class-invoiceboo-public.php:254
+msgid ""
+"It seems that the Order does not exist, or you do not have permission to "
+"access."
+msgstr ""
+
+#. translators: %s - URL link
+#: public/class-invoiceboo-public.php:258
+#, php-format
+msgid "Please open %sWooCommerce Orders%s page to download your Invoice."
+msgstr ""
+
+#: public/class-invoiceboo-public.php:278
+msgid "Download"
+msgstr ""
+
+#: public/class-invoiceboo-public.php:282
+msgid "Close"
+msgstr ""
+
+#: public/class-invoiceboo-public.php:285 templates/invoiceboo-sunrise.php:37
+#: templates/invoiceboo-sunrise.php:40
+msgid "Billed to"
+msgstr ""
+
+#: public/class-invoiceboo-public.php:286
+msgid "Please enter your business details and save your changes."
+msgstr ""
+
+#: public/class-invoiceboo-public.php:366
+#: public/class-invoiceboo-public.php:403
+msgid "Download Invoice"
+msgstr ""
+
+#. translators: %s - URL link
+#: public/class-invoiceboo-public.php:406
+#, php-format
+msgid "Please add your business details and %sDownload Invoice%s here."
+msgstr ""
+
+#: public/class-invoiceboo-public.php:410
+msgid "DOWNLOAD INVOICE"
+msgstr ""
+
+#: public/class-invoiceboo-public.php:411
+msgid "Please add your business details and Download Invoice here: "
+msgstr ""
+
+#: templates/invoiceboo-page.php:33
+msgid "Order"
+msgstr ""
+
+#: templates/invoiceboo-sunrise.php:32
+msgid "Billed from"
+msgstr ""
+
+#: templates/invoiceboo-sunrise.php:51
+msgid "Invoice Nr."
+msgstr ""
+
+#: templates/invoiceboo-sunrise.php:55
+msgid "Date"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "InvoiceBoo - Simple Invoices for WooCommerce"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A simple solution for offering an easy, quick, and user-friendly way of "
+"providing WooCommerce customers with Invoices"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Streamline.lv"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.invoiceboo.com/"
+msgstr ""
